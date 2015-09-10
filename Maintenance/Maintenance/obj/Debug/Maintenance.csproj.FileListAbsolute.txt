@@ -1,0 +1,13 @@
+c:\users\arthur c. baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\bin\Debug\Maintenance.exe.config
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.csprojResolveAssemblyReference.cache
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.FormAddCustomer.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.FormCustomer.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.FormInvoices.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.FormMaintenance.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.FormPayment.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.Properties.Resources.resources
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.csproj.GenerateResource.Cache
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\bin\Debug\Maintenance.exe
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\bin\Debug\Maintenance.pdb
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.exe
+C:\Users\Arthur C. Baroi\documents\visual studio 2013\Projects\Maintenance\Maintenance\obj\Debug\Maintenance.pdb
